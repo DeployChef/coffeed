@@ -1,2 +1,3 @@
 # coffeed
-Coffee shop application flutter
+
+A new Flutter project for coffee shop
